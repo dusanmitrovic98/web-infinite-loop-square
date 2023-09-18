@@ -24,3 +24,4 @@ body, html {
 
 @keyframes moveElement {
     0% {
+        left: 0;
