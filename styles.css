@@ -32,3 +32,4 @@ body, html {
         top: 0;
     }
     50% {
+        left: calc(100% - 50px);
