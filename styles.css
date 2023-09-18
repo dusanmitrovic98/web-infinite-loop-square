@@ -34,3 +34,4 @@ body, html {
     50% {
         left: calc(100% - 50px);
         top: calc(100% - 50px);
+    }
