@@ -40,3 +40,4 @@ body, html {
         top: calc(100% - 50px);
     }
     100% {
+        left: 0;
