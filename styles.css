@@ -36,3 +36,4 @@ body, html {
         top: calc(100% - 50px);
     }
     75% {
+        left: 0;
