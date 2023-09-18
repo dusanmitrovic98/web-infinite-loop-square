@@ -28,3 +28,4 @@ body, html {
         top: 0;
     }
     25% {
+        left: calc(100% - 50px);
