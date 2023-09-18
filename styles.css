@@ -19,3 +19,4 @@ body, html {
     height: 50px;
     position: absolute;
     background-color: #ff0084; /* Pink color for the element */
+    animation: moveElement 5s linear infinite;
